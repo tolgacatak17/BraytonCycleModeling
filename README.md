@@ -61,6 +61,13 @@ The base case model inputs are provided below. These values will be varied param
   <img src="https://github.com/user-attachments/assets/1bdc7144-107c-4cd5-846e-bd6adf5744ab" alt="Isentropic Turbine Efficiency" width="450">
 </p>
 
+- The isentropic compressor efficiency is defined as:
+
+<p align="center">
+       <img src="https://github.com/user-attachments/assets/6285d0af-013f-4f2a-bb61-15104e3cc096" alt="Isentropic Compressor Efficiency" width="430">
+</p>
+
+
 - **Enthalpy (h) and Entropy (s) Calculations**:
 
   Enthalpy and entropy are not taken from the tables but are calculated as follows:
