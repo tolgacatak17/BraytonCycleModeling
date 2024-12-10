@@ -43,8 +43,9 @@ The following assumptions are made to simplify the modeling:
 The base case model inputs are provided below. These values will be varied parametrically for analysis:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69a1c80e-9781-40f4-9f12-17f55a88410a" alt="Model Inputs" width="700">
+  <img src="https://github.com/user-attachments/assets/4bee0e16-3ab3-42d1-a255-e28702f4962b" alt="Model Inputs" width="700">
 </p>
+
 
 ---
 
