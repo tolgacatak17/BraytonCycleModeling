@@ -148,3 +148,14 @@ The following tasks are to be completed as part of this project:
 - What is the typical backwork ratio (bwr) for gas turbines? Discuss the values obtained in this project.
 - What is the suitable range of \(r<sub>p,i</sub>\) for compressor stages? Explain how this range was determined.
 - Discuss the effects of the regenerator on bwr, specific power output, and thermal efficiency.
+
+
+## Repository Structure
+
+1. **`code/`**: Contains MATLAB scripts for modeling and analyzing the Brayton cycle, including the base case and the parametric analyses.
+
+2. **`figures/`**: Contains plots and visualizations of the cycle performance metrics.
+
+3. **`report/`**: Includes the project report detailing the mathematical modeling, assumptions, and results of the Brayton cycle simulations.
+
+4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the MATLAB scripts and interpreting the results.
