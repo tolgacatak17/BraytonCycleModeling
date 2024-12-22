@@ -152,10 +152,12 @@ The following tasks are to be completed as part of this project:
 
 ## Repository Structure
 
+This repository is organized as follows:
+
 1. **`code/`**: Contains MATLAB scripts for modeling and analyzing the Brayton cycle, including the base case and the parametric analyses.
 
 2. **`figures/`**: Contains plots and visualizations of the cycle performance metrics.
 
-3. **`report/`**: Includes the project report detailing the mathematical modeling, assumptions, and results of the Brayton cycle simulations.
+3. **`report/`**: Contains the project report detailing the mathematical modeling, assumptions, and results of the Brayton cycle simulations.
 
 4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the MATLAB scripts and interpreting the results.
